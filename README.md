@@ -7,3 +7,6 @@
 相关文章：推荐文章：
 前往[webpack项目](https://github.com/PanJiaChen/F2E-accumulation/webpack) 
  
+ ##常用工具
+ [ngrok](https://ngrok.com/) 
+ [花生壳](http://hsk.oray.com/) 感觉微信火了之后将前端带入了一个新的领域，但微信端的各种调试搞惨了前端，只能靠感觉来调试，不过这两款软件或许能满足你的需求！神器不解释。。。
